@@ -5,7 +5,7 @@
 EXENAME = mobibench
 
 SRCS = mobibench.c \
-	  sqlite3.c
+	  sqlite_3.7.14/sqlite3.c
 
 INSTALL = install
 
